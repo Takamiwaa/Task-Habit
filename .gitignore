@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+backend/venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Databases
+backend/tracker.db
+
+# Misc
+.DS_Store
+dist/
+build/
